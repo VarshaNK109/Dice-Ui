@@ -1,6 +1,6 @@
 # diceapp
 
-A new Flutter application.
+Flutter Dice UI 
 
 ## Getting Started
 
